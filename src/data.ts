@@ -46,7 +46,8 @@ export const projectData: ProjectData = {
       role: "UI Designer",
       bio: "Transforms usability testing metrics into actionable insights.",
       imageUrl: "johnloyd.jpeg",
-      workbookUrl: "#",
+      workbookUrl:
+        "https://drive.google.com/drive/folders/19eTqttLtBy97FR_kBKQuVYUScVZoGsGp?usp=drive_link",
     },
   ],
   respondents: [
